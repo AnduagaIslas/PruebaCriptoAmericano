@@ -131,7 +131,7 @@
 
 
 
-                <a class="nav-link menu-ancla" href="Transaccion.php">MIS ALERTAS</a>
+                <a class="nav-link menu-ancla" href="alertas.php">MIS ALERTAS</a>
 
 
               </li>
