@@ -40,6 +40,26 @@ include('recursos/head.php');
     <span class="sr-only">Next</span>
   </a>
 </div>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="row">
+        <div class="col-md-12">
+          <h2>Caracteristica</h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-2">
+          <i class="fas fa-chart-pie"></i>
+        </div>
+        <div class="col-md-10">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
 
 <?php
 include('recursos/footer.php');
