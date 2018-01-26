@@ -9,13 +9,13 @@ include("recursos/head.php")
   </div>
   <div class="col-sm-6">
     <div class="titulomarginn">
-          <h1>¿Quienes Somos?</h1>
+          <h1>¿Que es Cripto Americano?</h1>
   </div>
   </div>
   <div class="col-sm-3">
     <div align="right" class="marginright">
 
-      
+
   </div>
 </div>
 </div>
@@ -27,34 +27,67 @@ include("recursos/head.php")
     <form class="frmtransaccion" action="fondo-social.php" method="post" name="frmfs">
       <div align="left">
         <p>
-          <h3>Logrado:</h3>
+          <h3>Es la web que yo buscaba cuando empecé en el trading:</h3>
         </p>
-        <label class="marginleft" for="Logrado">10,000</label>
+        <div class="paralasp">
         <p>
-          <h3>Meta:</h3>
+          Un lugar sin publicidad engañosa ni encubierta, con información de calidad explicada con toda
+          la sencillez y claridad posible, que tiene como misión acercar el mundo del trading a todo aquel
+          que quiera invertir el tiempo necesario en aprender cómo funciona.
         </p>
-        <label class="marginleft" for="Meta">100,000</label>
+        <p>
+          Aquí no vas a encontrar recetas mágicas para hacerte millonario sin trabajar, ni tampoco promesas
+          de convertirte en el mejor trader del mundo en veinticuatro horas.
+        </p>
+        </div>
       </div>
     </form>
+    <div class="row">
+      <div class="col-sm-6">
+        <div class="paralasp">
+          <p>
+          Lo que he aprendido del trading es que requiere formación teórica y práctica.
+        </p>
+        <p>
+          Y eso es precisamente lo que yo te ofrezco aquí: Artículos, recursos formativos, cursos específicos y
+          una sección en la que reviso tus operaciones de trading para reforzar tu práctica.
+        </p>
+        <p>
+          Para explorarlo todo, te recomiendo que empieces por esta página.
+        </p>
+        <p>
+          Cuando comencé con el blog no imaginaba el impacto que iba a tener y, a día de hoy, puedo decir que
+          el mayor valor de esta página está en todas las personas que entran, leen, comentan y hacen de
+          éste su lugar de referencia para aprender sobre trading.
+        </p>
+      </div>
+
+      </div>
+      <div class="col-sm-6">
+        <div class="paralasp">
+          <p>
+            Aunque de lo que más orgulloso me siento, es de que Novatos Trading Club es realmente un Club: Un lugar
+            en el que Novatos como tú encuentran donde comentar sus inquietudes, hacer consultas y contar sus propias
+            experiencias sabiendo que son leídos y comprendidos.
+          </p>
+          <p>
+            Por último, reconozco que la web ha crecido tanto que a veces es difícil guiarse en ella.
+          </p>
+          <p>
+            Por este motivo, he organizado toda la información que necesitas para comenzar en un programa formativo online
+           gratuito para que, periódicamente, recibas un email con la lección correspondiente y unos deberes para ti.
+          </p>
+        </div>
+
+      </div>
+
+    </div>
   </div>
   <div class="col-sm-4">
-    <form class="frmtransaccion" action="reloj.php" method="post" name="frmr">
-      <div>
-        <p>
-          <h3>Token donacion:</h3>
-        </p>
-        <p>ndejjhkjnd8943r823endndl32jeoi</p>
-      </div>
-      <div>
-        <p>
-          <h4>Tiempo de ayuda restante:</h4>
-        </p>
-        <p>
-          <h2>00:12:40:06</h2>
-        </p>
-      </div>
-    </form>
+    
   </div>
+</div>
+
 </div>
 
 <div class="row">
