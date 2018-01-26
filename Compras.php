@@ -29,11 +29,11 @@ include('recursos/head.php');
     		<div class="row">
                         <div class="col-xs-12 col-sm-3 col-md-3">
                             <a href="#">
-                                <img src="http://wanderluxe.theluxenomad.com/wp-content/uploads/2014/10/http-www.urchinbali.comgallery.jpg" class="img-responsive img-box img-thumbnail">
+                                <img src="img/tresslider.jpg" class="img-responsive img-box img-thumbnail">
                             </a>
                         </div>
                         <div class="col-xs-12 col-sm-9 col-md-9">
-                            <div class="list-group">
+                            <div class="uno list-group ">
                                 <div class="list-group-item">
                                     <div class="row-picture">
                                         <a href="#" title="sintret">
@@ -63,11 +63,11 @@ include('recursos/head.php');
                     <div class="row">
                         <div class="col-xs-12 col-sm-3 col-md-3">
                             <a href="#">
-                                <img src="http://wanderluxe.theluxenomad.com/wp-content/uploads/2014/09/http-barbacoabali.com_.jpg" class="img-responsive img-box img-thumbnail">
+                                <img src="img/dosslider.jpg" class="img-responsive img-box img-thumbnail">
                             </a>
                         </div>
                         <div class="col-xs-12 col-sm-9 col-md-9">
-                            <div class="list-group">
+                            <div class="uno list-group">
                                 <div class="list-group-item">
                                     <div class="row-picture">
                                         <a href="#" title="sintret">
@@ -98,11 +98,11 @@ include('recursos/head.php');
                     <div class="row">
                         <div class="col-xs-12 col-sm-3 col-md-3">
                             <a href="#">
-                                <img src="http://i.huffpost.com/gen/2038950/thumbs/s-BANGKOK-NOODLES-large.jpg" class="img-responsive img-box img-thumbnail">
+                                <img src="img/unoslider.jpg" class="img-responsive img-box img-thumbnail">
                             </a>
                         </div>
                         <div class="col-xs-12 col-sm-9 col-md-9">
-                            <div class="list-group">
+                            <div class="uno list-group">
                                 <div class="list-group-item">
                                     <div class="row-picture">
                                         <a href="#" title="sintret">
