@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="./css/bootstrap.min.css">
     <link rel="stylesheet" href="./css/estilos.css">
+    <link href="https://fonts.googleapis.com/css?family=Advent+Pro:700|Lato|Oxygen:300" rel="stylesheet">
   </head>
   <body>
 
@@ -120,22 +121,30 @@
           <div class="col-md-8">
             <ul class="nav menu">
               <li class="nav-item">
-                <a class="nav-link" href="index.php">INICIO</a>
+                <a class="nav-link menu-ancla" href="index.php">INICIO</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="Pagos.php">CURSOS</a>
+                <a class="nav-link menu-ancla" href="Pagos.php">CURSOS</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="Transaccion.php">MIS ALERTAS</a>
+
+
+
+                <a class="nav-link menu-ancla" href="Transaccion.php">MIS ALERTAS</a>
+
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="Compras.php">BLOG</a>
+                <a class="nav-link menu-ancla" href="Compras.php">BLOG</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="Fondo-Social.php">QUIENES SOMOS</a>
+
+
+
+                <a class="nav-link menu-ancla" href="Fondo-Social.php">QUIENES SOMOS</a>
+
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="Asistencia.php">ASISTENCIA <i class="far fa-question-circle"></i></a>
+                <a class="nav-link menu-ancla" href="Asistencia.php">ASISTENCIA <i class="far fa-question-circle"></i></a>
               </li>
 
             </ul>
