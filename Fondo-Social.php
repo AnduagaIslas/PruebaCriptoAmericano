@@ -3,9 +3,7 @@ include("recursos/head.php")
  ?>
 <div class="row">
   <div class="col-sm-3">
-    <div class="titulomargin">
-          <img src="img/logo.png" width="150" height="150">
-    </div>
+
   </div>
   <div class="col-sm-6">
     <div class="titulomarginn">
@@ -84,9 +82,86 @@ include("recursos/head.php")
     </div>
   </div>
   <div class="col-sm-4">
-    
+    <div class="row">
+      <div class="col-sm-2">
+
+      </div>
+      <div class="col-sm-8">
+          <div class="imagen">
+            <img src="imagenes/tra.jpg" width="200px" height="150px">
+          </div>
+          <div class="imagen2">
+            <img src="imagenes/tra1.jpg" width="200px" height="150px">
+          </div>
+          <div class="imagen2">
+            <img src="imagenes/tra3.jpg" width="200px" height="150px">
+          </div>
+        </div>
+
+
+      <div class="col-sm-2">
+
+      </div>
+    </div>
   </div>
 </div>
+
+</div>
+<div class="row">
+  <div class="col-sm-2">
+  </div>
+  <div class="col-sm-8">
+    <div class="row">
+      <div class="col-sm-6">
+        <div class="monedaimagen">
+          <img src="imagenes/Monedas.png" width="256" height="256">
+        </div>
+      </div>
+      <div class="col-sm-6">
+        <p>
+          <h3>¿Por que las criptomonedas?</h3>
+        </p>
+        <p>
+          <img src="imagenes/realidad.png" width="60px" height="60px">
+          <p>Porque son una realidad
+            Actualmente ya han impactado en la economía global.</p>
+          </p>
+        <p>
+          <img src="imagenes/futuro.png" width="60px" height="60px">
+            <p>
+              Porque son el futuro
+              Las criptomonedas pueden marcar una era y un cambio profundo.
+            </p>
+        </p>
+        <p>
+          <img src="imagenes/dinero.png" width="60px" height="60px">
+          <p>
+            Porque actualmente es un gran momento
+            Estamos en la era de las criptomonedas y hay que tomar ventaja.
+          </p>
+        </p>
+        <p>
+          <img src="imagenes/bit.png" width="60px" height="60px">
+          <p>
+            Porque te perdiste el bitcoin
+            Muy posiblemente si hubieras comprado Bitcoin en sus inicios no estarías ahora aquí.
+          </p>
+        </p>
+        <p>
+          <img src="imagenes/mundo.png" width="60px" height="60px">
+          <p>
+            Porque te perdiste el bitcoin
+            Muy posiblemente si hubieras comprado Bitcoin en sus inicios no estarías ahora aquí.
+          </p>
+        </p>
+
+
+      </div>
+
+    </div>
+  </div>
+  <div class="col-sm-2">
+  </div>
 
 </div>
 
