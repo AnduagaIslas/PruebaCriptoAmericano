@@ -9,12 +9,13 @@ include("recursos/head.php")
   </div>
   <div class="col-sm-6">
     <div class="titulomarginn">
-          <h1>Fondo Social</h1>
+          <h1>¿Quienes Somos?</h1>
   </div>
   </div>
   <div class="col-sm-3">
     <div align="right" class="marginright">
-      1PasteCoin=0.0000001ether
+
+      
   </div>
 </div>
 </div>

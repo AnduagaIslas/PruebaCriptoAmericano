@@ -126,13 +126,13 @@
                 <a class="nav-link" href="Pagos.php">CURSOS</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="Transaccion.php">QUIENES SOMOS</a>
+                <a class="nav-link" href="Transaccion.php">MIS ALERTAS</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="Compras.php">BLOG</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="Fondo-Social.php">MIS ALERTAS</a>
+                <a class="nav-link" href="Fondo-Social.php">QUIENES SOMOS</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="Asistencia.php">ASISTENCIA <i class="far fa-question-circle"></i></a>
