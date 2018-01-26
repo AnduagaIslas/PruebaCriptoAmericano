@@ -124,7 +124,7 @@
                 <a class="nav-link menu-ancla" href="index.php">INICIO</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link menu-ancla" href="Pagos.php">CURSOS</a>
+                <a class="nav-link menu-ancla" href="cursos.php">CURSOS</a>
               </li>
               <li class="nav-item">
 
