@@ -16,10 +16,15 @@ include('recursos/head.php');
     <div class="col-sm-6">
       <div class="marginleft">
         <div>
-          <h2>¿Como donar?</h2>
+          <h2>¿Como me puedo registrar?</h2>
         </div>
         <div>
-          <p>La donacion se realiza comprando Paste coins realizando un deposito directamente en la cuenta de la empresa y posteriormente se realisa la tranferencia de pastecoins a la token de donaciones
+          <p>
+            En la parte superior derecha se muestra el boton con la laeyenda 'Registrarse'
+            en la cual se despliega una ventana modal y es ahi donde debe introducir sus datos
+            para poder generar su cuenta
+            El registrate te permitira tener acceso al contenido de la plataforma asi como a las notificaciones
+            que se estaran enviando a los usuarios para realizar actividades dentro del trading.
           </p>
         </div>
       </div>
