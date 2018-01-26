@@ -32,10 +32,14 @@ include('recursos/head.php');
     <div class="col-sm-6">
       <div class="marginleft">
         <div>
-          <h2>¿Para que donar?</h2>
+          <h2>¿Como obtendre el contenido?</h2>
         </div>
         <div class="marginright">
-        <p>La donacion ayuda a que personas de bajos recursos puedan tener un rayito de alegria y de luz en sus hogares gracias a las donaciones que se realizan mediante Paste Coin
+        <p>
+          Debes realizar tu registro en la plataforma
+          adquiriendo tu membresia segun tu eleccion de comprado
+          y obtendras acceso a la plataforma de igual forma recibiras a tu cuenta de telegram y
+          correo electronico informacion detallada de nuevas noticias aerca de trading
         </p>
       </div>
       </div>
@@ -45,10 +49,12 @@ include('recursos/head.php');
       <div class="col-sm-6">
         <div class="marginleft">
           <div>
-            <h2>¿Como me puedo registrar?</h2>
+            <h2>¿Como accedo a mis cursos?</h2>
           </div>
           <div>
-            <p>El registro se encuentra en la parte superior derecha, registrarte te va a permitir tener acceso a la plataforma para interactuar con paste coins ya sea para realizar transacciones o donacion para seguir apoyado a mas compatriotas.
+            <p>Al adquirir tu pase a cripto Americano
+              podras acceder a el apartado que dice cursos el cual esta dividido en principinte
+              intermedio y avanzado, dicho contenido lo podras disfrutar mientras tengas tu pase a cripto Americano vigente.
             </p>
           </div>
         </div>
@@ -56,15 +62,30 @@ include('recursos/head.php');
         <div class="col-sm-6">
           <div class="marginleft">
             <div>
-              <h2>¿Como realizo una transaccion?</h2>
+              <h2>¿En que plataformas puedes hacer Trading?</h2>
             </div>
             <div class="marginright">
-              <p>Para realizar una transaccion en el espacio que nos asiga la leyenda "DE" colocamos el token de nuestra cuenta, en el espacio que nos asigna la leyenda "PARA" colocamos el token de la cuenta a la que enviaremos los PasteCoin y por ultimo colocamos la cantidad en PasteCoin que queremos enviar.
-              NOTA:la cantidad de PasteCoin debe ser igual o menos a la cantidad que tenemos en nuestra cuenta.
+              <p>
+                las plataformas que te recomendamos utilizar para trading respecto a las herramientas y mejoras que ofrecen son:
+                <p>
+                  -
+                </p>
+                <p>
+                  -
+                </p>
+                <p>
+                  -
+                </p>
+                <p>
+                  -
+                </p>
               </p>
             </div>
           </div>
         </div>
+    </div>
+    <div class="imagen">
+
     </div>
 
 <?php
