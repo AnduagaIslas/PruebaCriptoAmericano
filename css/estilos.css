@@ -33,6 +33,21 @@
   color: #f5f5f5;
   text-shadow: 5px 5px 5px #000;
 }
+.seccion2-index{
+  margin-top: 2em;
+}
+.seccion2-index h2{
+  font-family: 'Lato', sans-serif;
+    color: #B98FCC;
+
+}
+.seccion2-index p{
+  font-family: 'Oxygen', sans-serif;
+  color: #181C21;
+}
+.caracteristicas-index{
+  padding: 0.3em;
+}
 .marginleft{
   margin-left: 2em;
   margin-top: 2em;
@@ -300,4 +315,13 @@ input {
 }
 .paralasp{
   background-color: #B276B2;
+}
+.imagen{
+  margin-top: 8em;
+}
+.imagen2{
+  margin-top: 4em;
+}
+.monedaimagen{
+  margin-top: 16em;
 }

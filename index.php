@@ -41,19 +41,55 @@ include('recursos/head.php');
   </a>
 </div>
 <div class="container-fluid">
-  <div class="row">
+  <div class="row seccion2-index">
     <div class="col-md-4">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-12 text-center">
           <h2>Caracteristica</h2>
         </div>
       </div>
-      <div class="row">
+      <div class="row caracteristicas-index">
         <div class="col-md-2">
-          <i class="fas fa-chart-pie"></i>
+          <div style="font-size:3em; color:Tomato;">
+            <i class="fas fa-chart-pie"></i>
+          </div>
         </div>
         <div class="col-md-10">
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <h2>Caracteristica</h2>
+        </div>
+      </div>
+      <div class="row caracteristicas-index">
+        <div class="col-md-2">
+          <div style="font-size:3em; color:green;">
+            <i class="fas fa-briefcase"></i>
+          </div>
+        </div>
+        <div class="col-md-10">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <h2>Caracteristica</h2>
+        </div>
+      </div>
+      <div class="row caracteristicas-index">
+        <div class="col-md-2">
+          <div style="font-size:3em; color:blue;">
+            <i class="far fa-lightbulb"></i>
+          </div>
+        </div>
+        <div class="col-md-10">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
         </div>
       </div>
     </div>
