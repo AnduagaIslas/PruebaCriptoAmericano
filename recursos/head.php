@@ -130,7 +130,9 @@
 
 
 
+
                 <a class="nav-link menu-ancla" href="Transaccion.php">MIS ALERTAS</a>
+
 
               </li>
               <li class="nav-item">
@@ -140,7 +142,9 @@
 
 
 
+
                 <a class="nav-link menu-ancla" href="Fondo-Social.php">QUIENES SOMOS</a>
+
 
               </li>
               <li class="nav-item">
