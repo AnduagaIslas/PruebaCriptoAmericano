@@ -13,7 +13,7 @@ include("recursos/head.php")
       <br>
 
       <div class="alert alert-success" role="alert">
-        <h4 class="alert-heading"><strong>Bitcoin</strong> subiendo
+        <h4 class="alert-heading"><img src="imagenes/bitcoin.png" alt="" style="height: 1.2em; margin-right: .5em;"><strong>Bitcoin</strong> subiendo
           <button type="button" class="close" data-dismiss="alert" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
@@ -23,8 +23,8 @@ include("recursos/head.php")
         <p class="mb-0">Recuerda que no nos hacemos responsables del mal uso que puedas dar a esta información.</p>
       </div>
 
-       <div class="alert alert-danger" role="alert">
-        <h4 class="alert-heading"><strong>Bitcoin</strong> bajando en extremo
+      <div class="alert alert-danger" role="alert">
+        <h4 class="alert-heading"><img src="imagenes/bitcoin.png" alt="" style="height: 1.2em; margin-right: .5em;"><strong>Bitcoin</strong> bajando en extremo
           <button type="button" class="close" data-dismiss="alert" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
@@ -34,8 +34,8 @@ include("recursos/head.php")
         <p class="mb-0">Recuerda que no nos hacemos responsables del mal uso que puedas dar a esta información.</p>
       </div>
 
-       <div class="alert alert-secondary" role="alert">
-        <h4 class="alert-heading"><strong>Bitcoin</strong> bajando
+      <div class="alert alert-secondary" role="alert">
+        <h4 class="alert-heading"><img src="imagenes/bitcoin.png" alt="" style="height: 1.2em; margin-right: .5em;"><strong>Bitcoin</strong> bajando
           <button type="button" class="close" data-dismiss="alert" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
@@ -45,8 +45,8 @@ include("recursos/head.php")
         <p class="mb-0">Recuerda que no nos hacemos responsables del mal uso que puedas dar a esta información.</p>
       </div>
 
-       <div class="alert alert-secondary" role="alert">
-        <h4 class="alert-heading"><strong>Ethereum</strong> bajando
+      <div class="alert alert-secondary" role="alert">
+        <h4 class="alert-heading"><img src="imagenes/ethereum.png" alt="" style="height: 1.2em; margin-right: .5em;"><strong>Ethereum</strong> bajando
           <button type="button" class="close" data-dismiss="alert" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
@@ -56,8 +56,8 @@ include("recursos/head.php")
         <p class="mb-0">Recuerda que no nos hacemos responsables del mal uso que puedas dar a esta información.</p>
       </div>
 
-       <div class="alert alert-success" role="alert">
-        <h4 class="alert-heading"><strong>Ethereum</strong> subiendo
+      <div class="alert alert-success" role="alert">
+        <h4 class="alert-heading"><img src="imagenes/ethereum.png" alt="" style="height: 1.2em; margin-right: .5em;"><strong>Ethereum</strong> subiendo
           <button type="button" class="close" data-dismiss="alert" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
